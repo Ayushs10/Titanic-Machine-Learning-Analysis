@@ -1,8 +1,5 @@
 # Titanic-Machine-Learning-Analysis
 
-## Project Title
-**Titanic Survival Analysis with Machine Learning**
-
 ## Description
 This project applies various machine learning models to predict the survival rates of passengers aboard the Titanic. The analysis explores the relationships between survival and different passenger characteristics, such as age, sex, and class.
 
